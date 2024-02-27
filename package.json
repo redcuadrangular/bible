@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "build": "./node_modules/@antora/cli/bin/antora --fetch antora-playbook.yml",
-    "serve": "./node_modules/http-server/bin/http-server build/site -c-1"
+    "build": "node_modules/@antora/cli/bin/antora --fetch antora-playbook.yml",
+    "serve": "node_modules/http-server/bin/http-server build/site -c-1"
   },
   "devDependencies": {
     "@antora/cli": "3.1.7",
