@@ -15,7 +15,7 @@ content:
     start_path: portal
 ui: 
   bundle:
-    url: https://redcuadrangular.github.io/theme-docs/ui-bundle.zip
+    url: https://redcuadrangular.github.io/theme-bible/ui-bundle.zip
     snapshot: true
 asciidoc:
   attributes:
